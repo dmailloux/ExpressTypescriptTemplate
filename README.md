@@ -8,12 +8,23 @@ BYOTL (Bring Your Own Testing Library)
 
 ## Using the template
 
-Clone the repo, scoop out whatever you don't need and add whatever you do need.
+1. Clone the repo
+2. Run the following command to install existing dependencies:
+
+```bash
+npm install
+```
+
+Now you can scoop out whatever you don't need and add whatever you do need.
 
 ## To run the project locally
 
-> npm run dev
+```bash
+npm run dev
+```
 
 ## To build the project
 
-> npm run build
+```bash
+npm run build
+```
